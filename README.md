@@ -3,6 +3,8 @@
 ## 🔍 BUSINESS PROBLEM
 The company lacks clear visibility regarding the number of complaints they are receiving and the count of complaints they are resolving on time. Management doesn't have actual calculations on resolution time, track over monthly trends, or Year-over-Year (YoY) performance graph. Furthermore, the support team operates with limited bandwidth, making it impossible to handle every issue at once. The company needs to analyze the data so the team can identify the companies with the highest number of complaints, pinpoint the most common issues, and determine which high-risk complaints must be taken care of on priority.
 
+---
+
 
 ## 🎯 OBJECTIVE
 * To calculate complaint resolution times, track average closure delays, and number of complaints resolved on time.
