@@ -1,5 +1,9 @@
 # CONSUMER COMPLAINT ANALYSIS
 
+## 🔍 BUSINESS PROBLEM
+The company lacks clear visibility regarding the number of complaints they are receiving and the count of complaints they are resolving on time. Management doesn't have actual calculations on resolution time, track over monthly trends, or Year-over-Year (YoY) performance graph. Furthermore, the support team operates with limited bandwidth, making it impossible to handle every issue at once. The company needs to analyze the data so the team can identify the companies with the highest number of complaints, pinpoint the most common issues, and determine which high-risk complaints must be taken care of on priority.
+
+
 ## 🎯 OBJECTIVE
 * To calculate complaint resolution times, track average closure delays, and number of complaints resolved on time.
 * To pinpoint the companies with the highest number of complaints, most common issues, and the states with the highest complaint volumes.
@@ -45,9 +49,8 @@ The dataset contains customer complaint information for different companies. It 
 * Year-over-year complaint analysis using a Waterfall Chart.
 * Interactive filtering using slicers.
 
-<img width="1179" height="544" alt="Screenshot 2026-09-10 153802" src="https://github.com/user-attachments/assets/83bb7492-8243-4525-9295-c1b01d8280b0" />
-
 <img width="1183" height="545" alt="Screenshot 2026-09-10 153743" src="https://github.com/user-attachments/assets/cb7f301e-346c-44f2-9260-2844a2532097" />
+<img width="1179" height="544" alt="Screenshot 2026-09-10 153802" src="https://github.com/user-attachments/assets/83bb7492-8243-4525-9295-c1b01d8280b0" />
 
 
 ---
